@@ -1,4 +1,5 @@
 # elena
+#Project By Parth Nagraj, Jinhong Gan, Yuanxun Tao, Tristan Rentsch
 
 ## Dependencies
 Create and activate virtual environment  
@@ -12,4 +13,4 @@ Install dependencies
 `python3 Back-End/server.py`
 
 ## open in browser
-open in a browser: Fron-End/main.html
+open in a browser: Front-End/main.html
